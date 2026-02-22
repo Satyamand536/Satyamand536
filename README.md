@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Satyam Tiwari (satyamand536)
+# 👋 Hi, I'm Satyam Tiwari
 
 ### 🚀 Full-Stack Developer | AI Product Architect | Security Enthusiast
 **Engineering-First Mindset | Building Scalable & Secure MERN Ecosystems**
